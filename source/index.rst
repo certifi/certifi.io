@@ -10,10 +10,9 @@ Certifi is a carefully curated collection of Root Certificates for
 verifying domains, hosts, and establishing secure connections vis TLS (SSL).
 
 The internet is an untrusted place. Every HTTP request you make should have
-verification on by default. This process should be completely seemless.
-
-This happens every time you access a website with your web browser, without
-any knowledge to the user — there's no reason your code should be any different.
+verification on by default. This happens every time you access a website with
+your web browser, without any knowledge to the user — there's no reason your
+code should be any different.
 
 Certify is here to make this possible.
 
