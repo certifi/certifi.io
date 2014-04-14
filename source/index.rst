@@ -3,34 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Bob Builder: Binary Build Toolkit
-=================================
+Certifi: Domain Trust for Humans
+================================
 
-Bob-Builder is an *MIT Licensed* binary build framework, written in Python for human beings.
+Certifi is a carefully curated collection of Root Certificates for
+verifying domains, hosts, and establishing secure connections vis TLS (SSL).
 
-It's effectively a miniaturized version of *Homebrew* — oriented around composable builds,
-explicit dependencies, and shipping pre-built binaries for workflows like *Heroku buildpacks*.
+The internet is an untrusted place. Every HTTP request you make should have
+verification on by default. This process should be completely seemless.
 
-Bob is powered by Python, Boto, Doctopt, Amazon S3, Bash, and good intentions.
+This happens every time you access a website with your web browser, without
+any knowledge to the user — there's no reason your code should be any different.
 
-::
-
-    $ bob build runtimes/php-5.1.10
-    Fetching dependencies... found 2:
-      - libraries/zlib
-      - libraries/libmemcached
-    === Fetching PHP v5.1.10 source...
-    === Compiling PHP v5.1.10...
-    ...
-    === Cleaning up...
-    Done building runtimes/php-5.1.10.
-
-Bob takes all the statefullnes and labor out of maintaining a collection of binaries.
+Certify is here to make this possible.
 
 
-And gives you the ability to carefully handcraft the experience.
+What is it?
+-----------
 
-
+This **MPL Licensed** CA Bundle is extracated from the Mozilla foundation
 
 
 Contents:
