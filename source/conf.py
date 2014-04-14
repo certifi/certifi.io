@@ -273,7 +273,7 @@ html_sidebars = {
 
 
 html_theme_options = {
-   'github_user': 'kennethreitz',
-   'github_repo': 'bob-builder',
+   'github_user': 'certifi',
+   'github_repo': 'certifi.io',
    'github_banner': 'true'
 }
