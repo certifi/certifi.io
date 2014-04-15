@@ -7,7 +7,7 @@ Certifi: Domain Trust for Humans
 ================================
 
 Certifi is a carefully curated collection of Root Certificates for
-verifying domains, hosts, and establishing secure connections vis TLS (SSL).
+verifying domains, hosts, and establishing secure connections via TLS (SSL).
 
 The internet is an untrusted place. Every HTTP request you make should have
 verification on by default. This happens every time you access a website with
@@ -20,7 +20,8 @@ Certify is here to make this possible.
 What is it?
 -----------
 
-This **MPL Licensed** CA Bundle is extracted from the Mozilla foundation
+This **MPL Licensed** CA Bundle is extracted from the Mozilla Included CA
+Certs.
 
 
 Contents:
