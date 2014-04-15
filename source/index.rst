@@ -20,7 +20,7 @@ Certify is here to make this possible.
 What is it?
 -----------
 
-This **MPL Licensed** CA Bundle is extracated from the Mozilla foundation
+This **MPL Licensed** CA Bundle is extracted from the Mozilla foundation
 
 
 Contents:
