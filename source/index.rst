@@ -20,8 +20,10 @@ Certify is here to make this possible.
 What is it?
 -----------
 
-This **MPL Licensed** CA Bundle is extracted from the Mozilla Included CA
-Certs.
+This **MPL Licensed** CA Bundle is extracted from the `Mozilla Included CA
+Certificate List`_.
+
+.. _Mozilla Included CA Certificate List: https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/included/
 
 
 Contents:
