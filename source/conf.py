@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# bob-builder documentation build configuration file, created by
+# certifiio documentation build configuration file, created by
 # sphinx-quickstart on Thu Mar 20 16:10:07 2014.
 #
 # This file is execfile()d with the current directory set to its
@@ -176,7 +176,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'bob-builderdoc'
+htmlhelp_basename = 'certifiiodoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -196,7 +196,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'bob-builder.tex', u'bob-builder Documentation',
+  ('index', 'certifiio.tex', u'certifiio Documentation',
    u'Kenneth Reitz', 'manual'),
 ]
 
@@ -226,7 +226,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'bob-builder', u'bob-builder Documentation',
+    ('index', 'certifiio', u'certifiio Documentation',
      [u'Kenneth Reitz'], 1)
 ]
 
@@ -240,8 +240,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'bob-builder', u'bob-builder Documentation',
-   u'Kenneth Reitz', 'bob-builder', 'One line description of project.',
+  ('index', 'certifiio', u'certifiio Documentation',
+   u'Kenneth Reitz', 'certifiio', 'One line description of project.',
    'Miscellaneous'),
 ]
 
