@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Certifi: Domain Trust for Humans
-================================
+Trust Database for Humans
+=========================
 
 Certifi is a carefully curated collection of Root Certificates for
 verifying domains, hosts, and establishing secure connections via TLS (SSL).
