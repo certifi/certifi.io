@@ -267,7 +267,7 @@ extensions = ['alabaster']
 html_theme = 'alabaster'
 html_sidebars = {
    '**': [
-       'about.html', 'navigation.html', 'searchbox.html', 'donate.html', 'latest.html'
+       'about.html',  'latest.html', 'navigation.html', 'searchbox.html', 'donate.html'
    ]
 }
 
