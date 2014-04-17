@@ -44,8 +44,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'certifi'
-copyright = u"Copyright 2014, A <a href='http://kennethreitz.org/'>Kenneth Reitz</a> Project."
-show_source = False
+copyright = u"Copyright 2014, A <a href='http://kennethreitz.org/'>Kenneth Reitz</a> Project"
+html_show_sourcelink = False
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
