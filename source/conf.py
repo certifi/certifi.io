@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'certifi'
-copyright = u'2014, Kenneth Reitz'
+copyright = u'2014, A Kenneth Reitz Project.'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -276,5 +276,6 @@ html_sidebars = {
 html_theme_options = {
    'github_user': 'certifi',
    'github_repo': 'certifi.io',
-   'github_banner': 'true'
+   'github_banner': 'true',
+   'show_powered_by': 'false'
 }
