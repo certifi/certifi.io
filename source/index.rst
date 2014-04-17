@@ -15,7 +15,7 @@ verification on by default. This happens every time you access a website with
 your web browser, without any knowledge to the user — there's no reason your
 code should be any different.
 
-Certify is here to make this possible.
+Certifi is here to make this possible.
 
 
 What is it?
