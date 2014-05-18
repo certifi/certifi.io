@@ -27,17 +27,26 @@ Certificate List`_.
 .. _Mozilla Included CA Certificate List: https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/included/
 
 
-Contents:
+How do I use it?
+----------------
 
-.. toctree::
-   :maxdepth: 2
+- `Download the raw CA Bundle <https://certifi-bundles.s3.amazonaws.com/latest.pem>`_ or one of our convenient prebuilt packages for Ruby, Python, or Go.
+- Use an HTTP client of your choice that supports SNI Verification, Like `Python Requests <http://www.python-requests.org/en/latest/>`_ or Curl.
+- Pass the path to the CA Bundle to the HTTP Client, and verify to your heart's content!
+- Sign up for email notifications of new CA Bundle releases.
 
 
+Spread the Love
+---------------
 
-Indices and tables
-==================
+This is a base platform — you shouldn't have to care about this type of thing
+when you're interacting with the web. That's why your web browser takes care of
+this for you.
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Go, and build better software that abstracts this away from the user so that
+they don't need to download this bundle and be concerned with it when they're
+building amazing things.
 
+Developers are humans too.
+
+ॐ
