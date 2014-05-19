@@ -30,8 +30,8 @@ Certificate List`_.
 How do I use it?
 ----------------
 
-- `Download the raw CA Bundle <https://certifi-bundles.s3.amazonaws.com/latest.pem>`_ or one of our convenient prebuilt packages for Ruby, Python, or Go.
-- Use an HTTP client of your choice that supports SNI Verification, Like `Python Requests <http://www.python-requests.org/en/latest/>`_ or Curl.
+- `Download the raw CA Bundle <https://certifi-bundles.s3.amazonaws.com/latest.pem>`_ or one of our distributions packages for Ruby, Python, or Go.
+- Use an HTTP client of your choice that supports SNI Verification, Like `Requests <http://www.python-requests.org/en/latest/>`_ or Curl.
 - Pass the path to the CA Bundle to the HTTP Client, and verify to your heart's content!
 - Sign up for email notifications of new CA Bundle releases.
 
