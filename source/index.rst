@@ -36,6 +36,15 @@ How do I use it?
 - Pass the path to the CA Bundle to the HTTP Client, and verify to your heart's content!
 - Sign up for email notifications of new CA Bundle releases.
 
+Testimonials
+------------
+
+**Hynek Schlawack**
+    Unless you fully understand how system trust databases work (you probably don’t) and are capable to implement support for all relevant ones (you probably aren’t), I urge you: just use certifi
+
+**Andrey Petrov**
+    One of the first things people should ask when using a new toolset: How do I use Certifi with this?
+
 
 Spread the Love
 ---------------
