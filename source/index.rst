@@ -7,8 +7,9 @@ Trust Database for Humans
 =========================
 
 Certifi is a carefully curated collection of Root Certificates for
-verifying domains, hosts, and establishing secure connections via TLS (SSL),
-extracted from the `Requests <http://python-requests.org>`_ project.
+validating the trustworthiness of SSL certificates while verifying the
+identity of TLS hosts. It has been extracted from the
+`Requests <http://python-requests.org>`_ project.
 
 The internet is an untrusted place. Every HTTP request you make should have
 verification on by default. This happens every time you access a website with
