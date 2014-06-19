@@ -276,7 +276,7 @@ html_sidebars = {
 
 html_theme_options = {
    'github_user': 'certifi',
-   'github_repo': 'certifi.io',
+   'github_repo': '',
    'github_banner': 'true',
    'show_powered_by': 'false'
 }
