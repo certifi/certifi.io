@@ -15,4 +15,4 @@ ADD requirements.txt requirements.txt
 RUN ["pip", "install", "-r", "requirements.txt"]
 RUN ["pip", "install", "/python"]
 
-CMD ["twist", "mkcertproxy"]
+CMD ["twist", "certifiproxy"]
